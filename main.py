@@ -14,7 +14,7 @@ import os
 
 # Set page configuration
 st.set_page_config(
-    page_title="Personal Expense Tracker",
+    page_title="Smart Personal Expense Tracker",
     page_icon="💰",
     layout="wide"
 )
