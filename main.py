@@ -152,7 +152,7 @@ def main():
                 daily_expenses,
                 x='Date',
                 y='Amount',
-                title='Daily Expense Trend (INR)'
+                title='Daily Expense Trend'
             )
             fig_line.update_layout(yaxis_title="Amount (₹)")
             st.plotly_chart(fig_line)
