@@ -40,7 +40,7 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/smart-personal-expense-tracker.git
+    git clone <url>
     cd smart-personal-expense-tracker
     ```
 
@@ -111,9 +111,3 @@ Follow these instructions to set up and run the project locally.
 5.  **Download Report:** Click the "Download Expense Report" button at the bottom to save all your data to a `expense_report.csv` file.
 
 ---
-
-## 📄 License
-
-This project is open-source. Feel free to fork, modify, and distribute it. If you choose to add a license, the [MIT License](https://opensource.org/licenses/MIT) is a great option.
-Use code with caution.
-Markdown
